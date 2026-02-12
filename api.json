@@ -1,0 +1,431 @@
+{
+  "category": "FAE_FOLKLORE",
+
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-01-14",
+    "repository": "https://github.com/wyrdness/vila",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+
+  "phenomenon": {
+    "id": "vila",
+    "name": "Vila",
+    "aliases": [
+      {
+        "name": "Vile",
+        "language": "South Slavic",
+        "region": "Balkans",
+        "meaning": "plural form"
+      },
+      {
+        "name": "Wili",
+        "language": "German/Western",
+        "region": "Central Europe"
+      },
+      {
+        "name": "Veela",
+        "language": "English adaptation",
+        "region": "Fantasy literature"
+      },
+      {
+        "name": "Samovila",
+        "language": "Bulgarian",
+        "region": "Bulgaria",
+        "meaning": "self-born vila"
+      }
+    ],
+    "category": "FAE_FOLKLORE",
+    "subcategory": "Nature Spirit",
+    "tags": [
+      "slavic",
+      "fairy",
+      "nature-spirit",
+      "female",
+      "shape-shifter",
+      "protective",
+      "vengeful",
+      "balkan-folklore"
+    ],
+    "status": "traditional_folklore",
+    "description": {
+      "summary": "Slavic nature spirits, beautiful fairy-like female beings with long hair, dressed in white. Protective of nature, helpful to respectful humans, but vengeful when wronged.",
+      "full": "Vile are female nature spirits from South Slavic folklore, characterized by their ethereal beauty, long flowing hair, and white garments. Some traditions hold they are spirits of unbaptized or unchaste women, while others view them as personifications of natural forces. Possessing abilities including shape-shifting, healing, prophecy, and control over weather and animals, vile are protective of nature and can be helpful allies to those who treat them with respect. However, they are dangerously vengeful when wronged, and stealing their possessions or intruding on their dancing can result in curses or death. Their ring dances leave marks on the earth where grass dies or burns."
+    },
+    "etymology": {
+      "origin": "From Proto-Slavic, possibly related to words for 'to see' or 'to know'",
+      "meaning": "Fairy, nature spirit, supernatural maiden",
+      "first_use": "Ancient Slavic traditions"
+    }
+  },
+
+  "classification": {
+    "taxonomy": {
+      "category": "FAE_FOLKLORE",
+      "type": "Nature Spirit",
+      "subtype": "Fairy",
+      "variant": "South Slavic"
+    },
+    "related_phenomena": [
+      {
+        "id": "rusalka",
+        "name": "Rusalka",
+        "relationship": "related",
+        "description": "Water-focused Slavic spirits, similar origins"
+      },
+      {
+        "id": "fairies",
+        "name": "Fairies",
+        "relationship": "similar",
+        "description": "Western European fairy traditions"
+      },
+      {
+        "id": "banshee",
+        "name": "Banshee",
+        "relationship": "similar",
+        "description": "Female supernatural beings with specific powers"
+      }
+    ]
+  },
+
+  "characteristics": {
+    "physical": {
+      "height": {
+        "min": 1.5,
+        "max": 1.8,
+        "unit": "meters",
+        "confidence": "medium"
+      },
+      "coloration": [
+        "pale skin",
+        "dark or golden hair",
+        "white clothing"
+      ],
+      "features": [
+        {
+          "feature": "Long flowing hair",
+          "description": "Extremely long hair, often described as their source of power",
+          "frequency": "always"
+        },
+        {
+          "feature": "White dress",
+          "description": "Dressed in white flowing garments or robes",
+          "frequency": "always"
+        },
+        {
+          "feature": "Ethereal beauty",
+          "description": "Supernaturally beautiful, enchanting appearance",
+          "frequency": "always"
+        },
+        {
+          "feature": "Wings",
+          "description": "Sometimes depicted with bird-like or fairy wings",
+          "frequency": "occasional"
+        },
+        {
+          "feature": "Glowing",
+          "description": "May emit soft light or glow in moonlight",
+          "frequency": "occasional"
+        },
+        {
+          "feature": "Translucent",
+          "description": "Semi-transparent or ghostly appearance",
+          "frequency": "occasional"
+        }
+      ],
+      "morphology": "Appears as beautiful young woman with extremely long hair and white garments. May have wings in some depictions. Can transform into various animals, particularly birds and horses."
+    },
+    "abilities": [
+      {
+        "ability": "Shape-shifting",
+        "description": "Transform into animals (especially birds, horses, snakes) and whirlwinds",
+        "frequency": "common",
+        "evidence_level": "folklore"
+      },
+      {
+        "ability": "Healing",
+        "description": "Can heal injuries and diseases with herbs and magic",
+        "frequency": "common",
+        "evidence_level": "folklore"
+      },
+      {
+        "ability": "Prophecy",
+        "description": "Foretell future events and reveal hidden knowledge",
+        "frequency": "common",
+        "evidence_level": "folklore"
+      },
+      {
+        "ability": "Weather control",
+        "description": "Command storms, wind, rain, and clouds",
+        "frequency": "common",
+        "evidence_level": "folklore"
+      },
+      {
+        "ability": "Animal control",
+        "description": "Command and communicate with animals, especially horses",
+        "frequency": "common",
+        "evidence_level": "folklore"
+      },
+      {
+        "ability": "Archery and combat",
+        "description": "Exceptional warriors with bow and arrow",
+        "frequency": "common",
+        "evidence_level": "folklore"
+      },
+      {
+        "ability": "Death dance",
+        "description": "Dancing with vila can lead to death from exhaustion",
+        "frequency": "occasional",
+        "evidence_level": "folklore"
+      },
+      {
+        "ability": "Cursing",
+        "description": "Inflict powerful curses on those who wrong them",
+        "frequency": "common",
+        "evidence_level": "folklore"
+      }
+    ],
+    "behavior": {
+      "activity_period": "nocturnal",
+      "disposition": "neutral",
+      "social_structure": "group",
+      "habitat_preference": [
+        "mountains",
+        "forests",
+        "meadows",
+        "springs and wells",
+        "crossroads",
+        "clouds and sky"
+      ],
+      "diet": "Not applicable (spirit being)",
+      "patterns": [
+        "Dance in rings, leaving scorched grass or fairy rings",
+        "Help those who respect nature",
+        "Punish those who harm nature or steal from them",
+        "Teach skills (healing, riding, archery) to chosen humans",
+        "Protect specific mountains or territories",
+        "Meet and dance at crossroads",
+        "More active during full moon and certain festivals"
+      ]
+    }
+  },
+
+  "distribution": {
+    "range": {
+      "description": "Throughout South Slavic regions, particularly Serbia, Croatia, Bulgaria, Macedonia, and surrounding Balkan areas.",
+      "continents": ["Europe"],
+      "countries": ["Serbia", "Croatia", "Bulgaria", "Macedonia", "Bosnia and Herzegovina", "Slovenia", "Montenegro"],
+      "regions": [
+        "Balkan mountains",
+        "Serbian highlands",
+        "Croatian forests",
+        "Bulgarian wilderness"
+      ]
+    },
+    "temporal": {
+      "first_recorded": {
+        "date": "Pre-Christian Slavic period",
+        "circa": true,
+        "source": "Ancient oral traditions"
+      },
+      "peak_activity_periods": [
+        {
+          "period": "Pre-Christian era",
+          "description": "Height of nature spirit veneration"
+        },
+        {
+          "period": "Medieval period",
+          "description": "Continued belief despite Christianization"
+        }
+      ],
+      "seasonal_patterns": "More active during spring and summer, especially around midsummer celebrations"
+    }
+  },
+
+  "history": {
+    "origins": {
+      "cultural_roots": "Ancient South Slavic beliefs in nature spirits and personifications of natural forces. Pre-Christian veneration of female nature deities.",
+      "earliest_accounts": "Pre-Christian South Slavic oral traditions",
+      "folklore_connections": "Related to broader Slavic nature spirit beliefs and similar to Western European fairy traditions."
+    },
+    "timeline": [
+      {
+        "date": "Pre-9th century",
+        "event": "Pagan Slavic vila worship",
+        "significance": "Veneration of nature spirits as deities or semi-divine beings",
+        "source": "Archaeological and anthropological evidence"
+      },
+      {
+        "date": "9th-12th century",
+        "event": "Christianization of South Slavic lands",
+        "significance": "Vila beliefs persist, sometimes Christianized or demonized",
+        "source": "Historical church records"
+      },
+      {
+        "date": "Medieval period",
+        "event": "Epic poetry traditions",
+        "significance": "Vile appear in South Slavic epic songs",
+        "source": "Traditional epic poetry"
+      },
+      {
+        "date": "19th century",
+        "event": "Romantic period fascination",
+        "significance": "Vila imagery in art, music (Giselle ballet), and literature",
+        "source": "Cultural records"
+      },
+      {
+        "date": "20th-21st century",
+        "event": "Modern cultural preservation",
+        "significance": "Vila imagery in Balkan culture and fantasy literature",
+        "source": "Contemporary sources"
+      }
+    ],
+    "modern_era": "Vila remain important in South Slavic cultural identity, appearing in music, art, and literature. Modern fantasy adaptations include Harry Potter's 'Veela' and various role-playing games."
+  },
+
+  "cultural": {
+    "folklore": {
+      "traditions": [
+        "Respecting fairy rings and not disturbing them",
+        "Leaving offerings at springs and crossroads",
+        "Not stealing vila possessions (especially belts, veils, or wings)",
+        "Asking permission before entering wild areas",
+        "Respecting women who claim vila ancestry or favor"
+      ],
+      "stories": [
+        "Heroes helped by vile in epic songs",
+        "Men who married vile and the consequences",
+        "Healers taught by vile",
+        "Punishments for those who stole vila clothing",
+        "Vile dancing at mountain peaks and crossroads"
+      ],
+      "beliefs": "Vile embody the power and capriciousness of nature. They reward respect and punish disrespect, teaching that nature demands proper relationship."
+    },
+    "indigenous": {
+      "cultures": [
+        "Serbian",
+        "Croatian",
+        "Bulgarian",
+        "Macedonian",
+        "Bosnian",
+        "Slovenian"
+      ],
+      "significance": "Central to South Slavic understanding of nature as inhabited by powerful feminine spirits. Represents feminine power, nature's beauty and danger.",
+      "sensitivity_note": "Vila traditions remain part of living Balkan cultural heritage and national identity.",
+      "respect_guidelines": "Recognize vila as important cultural symbol and spiritual tradition. Understand significance to Balkan cultural identity."
+    },
+    "popular_culture": {
+      "literature": [
+        "South Slavic epic poetry",
+        "Serbian folk tales",
+        "Modern Balkan fantasy literature"
+      ],
+      "film_tv": [
+        "Various Balkan folklore films",
+        "Contemporary fantasy adaptations"
+      ],
+      "music": [
+        "Ballet 'Giselle' (Wilis)",
+        "Balkan folk songs",
+        "Modern Balkan music"
+      ],
+      "games": [
+        "Dungeons & Dragons adaptations",
+        "Harry Potter (Veela)",
+        "Various Slavic mythology games"
+      ],
+      "other": [
+        "National cultural symbols",
+        "Tourism and folklore festivals",
+        "Visual art and craft traditions"
+      ]
+    }
+  },
+
+  "protection": {
+    "survival_techniques": [
+      {
+        "method": "Show respect",
+        "description": "Respect nature and vila territories, ask permission",
+        "effectiveness": "high"
+      },
+      {
+        "method": "Do not steal possessions",
+        "description": "Never take vila clothing, belts, or wings",
+        "effectiveness": "critical"
+      },
+      {
+        "method": "Avoid fairy rings",
+        "description": "Do not enter or disturb areas where vile have danced",
+        "effectiveness": "high"
+      },
+      {
+        "method": "Do not interrupt dancing",
+        "description": "If you see vile dancing, do not approach or interrupt",
+        "effectiveness": "high"
+      },
+      {
+        "method": "Make offerings",
+        "description": "Leave offerings at springs and crossroads",
+        "effectiveness": "medium"
+      }
+    ]
+  },
+
+  "research": {
+    "researchers": [
+      {
+        "name": "Vuk Karadžić",
+        "affiliation": "Serbian philologist and linguist",
+        "contribution": "Collected Serbian folk tales and epic poetry featuring vile",
+        "period": "19th century"
+      },
+      {
+        "name": "T.P. Vukanović",
+        "affiliation": "Ethnographer",
+        "contribution": "Studied South Slavic folk beliefs including vila traditions",
+        "period": "20th century"
+      }
+    ],
+    "ongoing_studies": "Contemporary research focuses on comparative mythology, Balkan cultural identity, and preservation of folk traditions."
+  },
+
+  "sources": [
+    {
+      "id": "karadzic-folktales",
+      "type": "book",
+      "title": "Serbian Folk Tales",
+      "authors": ["Vuk Karadžić"],
+      "publication": "Various editions",
+      "date": "19th century"
+    },
+    {
+      "id": "mcclelland-2006",
+      "type": "book",
+      "title": "Slayers and Their Vampires: A Cultural History of Killing the Dead",
+      "authors": ["Bruce McClelland"],
+      "publication": "University of Michigan Press",
+      "date": "2006",
+      "isbn": "978-0472069231"
+    },
+    {
+      "id": "vukanovic-1989",
+      "type": "article",
+      "title": "The Vampire",
+      "authors": ["T.P. Vukanović"],
+      "publication": "Journal of the Gypsy Lore Society",
+      "date": "1989"
+    }
+  ]
+}
