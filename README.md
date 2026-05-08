@@ -1,310 +1,173 @@
 # Vila
 
-> *"Dance with the vila, but beware—you may never stop."*
+> Female nature-spirits of Slavic, especially South Slavic, folklore, often described as beautiful long-haired women in white who dance in mountain meadows and possess powers over weather, healing, and prophecy.
 
-[![API Version](https://img.shields.io/badge/api-v1.0.0-blue)]()
-[![Last Updated](https://img.shields.io/badge/updated-2026--01--14-green)]()
-[![Status](https://img.shields.io/badge/status-traditional__folklore-brightgreen)]()
+[![API Version](https://img.shields.io/badge/api-v1.1.0-blue)]() [![Last Updated](https://img.shields.io/badge/updated-2026-05-07-green)]() [![Sightings](https://img.shields.io/badge/sightings-0-orange)]() ![Status](https://img.shields.io/badge/status-documented-blue)
 
 ---
-
 ## Quick Reference
 
 | Property | Value |
-|----------|-------|
+|---|---|
 | **ID** | `vila` |
 | **Category** | FAE_FOLKLORE |
-| **Classification** | Nature Spirit / Fairy |
-| **First Recorded** | Pre-Christian Slavic period |
-| **Primary Region** | South Slavic / Balkan regions |
-| **Status** | Traditional folklore |
+| **Subcategory** | Slavic nymph / nature spirit |
+| **First recorded** | 1814-01-01 |
+| **Primary range** | Strongest attestation in South Slavic folklore (Serbia, Croatia, Bosnia and Herzegovina, North Macedonia, Bulgaria, Slovenia, Montenegro), with regional variants in Czech, Slovak, and Polish tradition |
+| **Status** | documented |
 
 ---
-
 ## Overview
 
-Vile are female nature spirits from South Slavic folklore, characterized by their ethereal beauty, long flowing hair, and white garments. Some traditions hold they are spirits of unbaptized or unchaste women, while others view them as personifications of natural forces—embodiments of wind, clouds, mountains, and forests.
-
-Possessing remarkable abilities including shape-shifting, healing, prophecy, and control over weather and animals, vile are fiercely protective of nature and can be helpful allies to those who treat them with respect. However, they are dangerously vengeful when wronged. Stealing their possessions (especially their belts, veils, or wings) or intruding on their dancing can result in terrible curses or death.
-
-Their ring dances leave lasting marks on the earth—circular patterns where grass dies or burns, known as fairy rings. Dancing with a vila can lead to death from exhaustion, as mortals cannot match their supernatural endurance.
+The vila (plural vile) is a Slavic supernatural being most strongly attested in South Slavic folklore (Serbia, Croatia, Bosnia and Herzegovina, Bulgaria, North Macedonia, Slovenia and Montenegro), with regional variants among West Slavs (Czech víla, Polish wiła) and disputed presence further east. Vile are typically described as beautiful young women with long flowing hair and white garments, capable of transforming into swans, falcons, horses, wolves, or whirlwinds. They are associated with mountains, forests, clouds, and bodies of water, and are divided in folkloristic literature into types such as forest-vile (zagorkinje), water-vile (povodne vile) and cloud-vile (zračne vile). Their disposition is famously ambivalent: they may heal, prophesy, befriend heroes as 'blood-sisters' (posestrime) in Serbian and Croatian epic poetry, and reward respectful treatment, but they punish trespassers on their dancing-circles (vilino kolo) and those who steal their belongings, sometimes dancing mortals to exhaustion or death. Folk practice in the Balkans included offerings of food and flowers at caves and springs associated with vile.
 
 ---
+## Names & Aliases
 
-## Etymology & Names
+| Name | Origin | Meaning |
+|---|---|---|
+| Vile | Serbian/Croatian | plural of vila |
+| Samovila | Bulgarian/Macedonian / Bulgaria, North Macedonia |  |
+| Samodiva | Bulgarian / Bulgaria |  |
+| Diva | Bulgarian / Bulgaria |  |
+| Víla | Czech/Slovak / Czech Republic, Slovakia |  |
+| Wiła | Polish / Poland |  |
 
-### Primary Name
-- **Vila** — From Proto-Slavic, possibly related to words for 'to see' or 'to know'. Represents supernatural maiden, fairy, or nature spirit.
+## Etymology
 
-### Alternative Names
-
-| Name | Language/Region | Meaning |
-|------|-----------------|---------|
-| Vile | South Slavic | Plural form |
-| Wili | German/Western | Central European variant |
-| Veela | English adaptation | Fantasy literature version |
-| Samovila | Bulgarian | Self-born vila |
-
----
-
-## Classification
-
-### Taxonomy
-```
-Category: FAE_FOLKLORE
-├── Type: Nature Spirit
-├── Subtype: Fairy
-└── Variant: South Slavic
-```
-
-### Related Phenomena
-
-| Phenomenon | Relationship | Description |
-|------------|--------------|-------------|
-| [Rusalka](/rusalka) | Related | Water-focused Slavic spirits, similar origins |
-| [Fairies](/fairies) | Similar | Western European fairy traditions |
-| [Banshee](/banshee) | Similar | Female supernatural beings with specific powers |
+- **Origin**: Common Slavic; ultimate etymology disputed. Proposed connections include the verb root *vi- 'to wind, twist' (cf. vichъrь 'whirlwind' in Old Church Slavonic) and Indo-European cognates of Sanskrit vāyú- 'wind, air'.
+- **Meaning**: Often glossed in English as 'fairy' or 'nymph'; the underlying sense in folklore is of a wind- or air-bound female spirit.
+- **First use**: Vile are attested in medieval South Slavic sources and prominently in Serbian and Bulgarian oral epic and lyric poetry.
 
 ---
+## Related Phenomena
 
-## Characteristics
+- [Rusalka](../rusalka/) — _related_: Slavic water spirit, often more dangerous than the vila
+- [Samodiva](../samodiva/) — _regional_variant_: Bulgarian variant of the vila
+- [Valkyrie](../valkyrie/) — _similar_: Norse battle-spirits, sometimes compared to vile in scholarship
+- [Greek nymph](../nymph/) — _similar_: Classical female nature-spirits
+- [Western European fairy](../fairy/) — _similar_: Broader European fairy tradition
 
-### Physical Description
+---
+## Physical Description
 
-| Attribute | Description | Confidence |
-|-----------|-------------|------------|
-| **Height** | 1.5 - 1.8 meters (5 - 6 feet) | Medium |
-| **Coloration** | Pale skin, dark or golden hair, white clothing | High |
-| **Build** | Beautiful, ethereal, slender | High |
+- **Coloration**: white (garments), fair skin, long blonde or golden hair
+- **Morphology**: Anthropomorphic, female; capable of shapeshifting into swans, falcons, horses, wolves, or whirlwinds.
 
-### Distinguishing Features
+### Features
 
 | Feature | Description | Frequency |
-|---------|-------------|-----------|
-| Long flowing hair | Extremely long hair, often their source of power | Always |
-| White dress | Flowing white garments or robes | Always |
-| Ethereal beauty | Supernaturally beautiful, enchanting appearance | Always |
-| Wings | Sometimes depicted with bird-like or fairy wings | Occasional |
-| Glowing | May emit soft light or glow in moonlight | Occasional |
-| Translucent | Semi-transparent or ghostly appearance | Occasional |
+|---|---|---|
+| Long flowing hair | Typically depicted with long, loose, golden or fair hair, sometimes said to contain their power | always |
+| White garments | Wear long white dresses, often with veils or wings; loss of these garments to a mortal can bind a vila | common |
+| Wings or veils | Some traditions describe vile with wings, swan-feathers, or magical veils that allow flight | occasional |
+| Animal feet | Some Bulgarian samodiva traditions describe goat- or horse-hooves hidden under their dresses | occasional |
 
-### Reported Abilities
+## Reported Abilities
 
-| Ability | Description | Evidence Level |
-|---------|-------------|----------------|
-| Shape-shifting | Transform into animals (birds, horses, snakes) and whirlwinds | Folklore |
-| Healing | Heal injuries and diseases with herbs and magic | Folklore |
-| Prophecy | Foretell future events and reveal hidden knowledge | Folklore |
-| Weather control | Command storms, wind, rain, and clouds | Folklore |
-| Animal control | Command and communicate with animals, especially horses | Folklore |
-| Archery and combat | Exceptional warriors with bow and arrow | Folklore |
-| Death dance | Dancing with vila can lead to death from exhaustion | Folklore |
-| Cursing | Inflict powerful curses on those who wrong them | Folklore |
+| Ability | Description | Frequency | Evidence |
+|---|---|---|---|
+| Shapeshifting | Transforms into swans, falcons, horses, wolves, or wind | common | folklore |
+| Prophecy | Foretells the future; may bestow prophetic gifts on favored mortals | common | folklore |
+| Healing | Knows the medicinal use of mountain herbs; may heal wounds and illness | common | folklore |
+| Weather control | Cloud-vile (zračne vile) bring storms, hail, and whirlwinds | common | folklore |
+| Dance and music | Lead circle-dances (vilino kolo) in mountain meadows; mortals drawn into the dance may die of exhaustion | always | folklore |
+| Combat skill | Skilled riders and archers in epic poetry; sometimes compared to Norse valkyries | common | folklore |
 
-### Behavioral Patterns
+## Behavior
 
-- **Activity Period**: Nocturnal (primarily)
-- **Disposition**: Neutral (helpful to respectful, vengeful when wronged)
-- **Social Structure**: Group (appear and dance together)
-- **Habitat Preference**: Mountains, forests, meadows, springs, crossroads, clouds
-- **Diet**: Not applicable (spirit being)
-
-**Common Patterns**:
-- Dance in rings, leaving scorched grass or fairy rings
-- Help those who respect nature
-- Punish those who harm nature or steal from them
-- Teach skills (healing, riding, archery) to chosen humans
-- Protect specific mountains or territories
-- Meet and dance at crossroads
-- More active during full moon and festivals
+- **Activity**: variable
+- **Disposition**: variable
+- **Social structure**: family_group
+- **Habitat**: mountain meadows, forests, springs and rivers, caves, clouds
+- **Diet**: Not generally described; offerings of food and flowers are made to them rather than the reverse.
 
 ---
+## Distribution
 
-## Geographic Distribution
+Strongest attestation in South Slavic folklore (Serbia, Croatia, Bosnia and Herzegovina, North Macedonia, Bulgaria, Slovenia, Montenegro), with regional variants in Czech, Slovak, and Polish tradition. Russian attestation is disputed in scholarship.
 
-### Primary Range
-
-Throughout South Slavic regions, particularly Serbia, Croatia, Bulgaria, Macedonia, and surrounding Balkan areas. Strongly associated with mountain peaks, forests, and wild places.
-
-### Regional Variations
-
-- **Serbian highlands** — Mountain-dwelling vile
-- **Croatian forests** — Forest and meadow spirits
-- **Bulgarian wilderness** — Samovile traditions
-- **Balkan mountains** — Peak-dancing vile
 
 ---
-
 ## Historical Timeline
 
-### Origins
-
-Ancient South Slavic beliefs in nature spirits and personifications of natural forces. Pre-Christian veneration of female nature deities and elemental powers.
-
-### Key Events
-
 | Date | Event | Significance |
-|------|-------|--------------|
-| Pre-9th century | Pagan Slavic vila worship | Veneration of nature spirits as deities |
-| 9th-12th century | Christianization of South Slavic lands | Vila beliefs persist, sometimes Christianized or demonized |
-| Medieval period | Epic poetry traditions | Vile appear in South Slavic epic songs |
-| 19th century | Romantic period fascination | Vila imagery in art, music (Giselle ballet), literature |
-| 20th-21st century | Modern cultural preservation | Vila imagery in Balkan culture and fantasy literature |
+|---|---|---|
+| 1814-01-01 | Vuk Stefanović Karadžić begins publishing Serbian folk songs in which vile feature prominently | Foundational documentation of South Slavic vila lore |
+| 1853-01-01 | Karel Jaromír Erben publishes Kytice, including a treatment of the Bohemian víla | Major Czech literary treatment of the víla figure |
 
-### Modern Era
+## Evidence
 
-Vile remain important symbols in South Slavic cultural identity, appearing in music, art, and literature. Modern fantasy adaptations include Harry Potter's 'Veela' and various role-playing games. They serve as national cultural symbols in several Balkan countries.
+### Documentary
 
----
-
-## Cultural Significance
-
-### South Slavic Folklore Traditions
-
-> ⚠️ **Cultural Sensitivity Note**: Vila traditions remain part of living Balkan cultural heritage and national identity. Recognize as important cultural symbol and spiritual tradition.
-
-**Traditional Practices**:
-- Respecting fairy rings and not disturbing them
-- Leaving offerings at springs and crossroads
-- Not stealing vila possessions (especially belts, veils, or wings)
-- Asking permission before entering wild areas
-- Respecting women who claim vila ancestry or favor
-
-**Common Stories**:
-- Heroes helped by vile in epic songs
-- Men who married vile and the consequences
-- Healers taught by vile
-- Punishments for those who stole vila clothing
-- Vile dancing at mountain peaks and crossroads
-
-### Cultural Significance to Balkan Peoples
-
-**Relevant Cultures**: Serbian, Croatian, Bulgarian, Macedonian, Bosnian, Slovenian
-
-Vile embody the power and capriciousness of nature. They reward respect and punish disrespect, teaching that nature demands a proper relationship. Central to South Slavic understanding of nature as inhabited by powerful feminine spirits. Represents feminine power, nature's beauty and danger.
-
-### Popular Culture
-
-**Literature**:
-- South Slavic epic poetry
-- Serbian folk tales
-- Modern Balkan fantasy literature
-
-**Music**:
-- Ballet 'Giselle' (Wilis — Germanic interpretation)
-- Balkan folk songs
-- Modern Balkan music
-
-**Games**:
-- Dungeons & Dragons adaptations
-- Harry Potter (Veela)
-- Various Slavic mythology games
-
-**Other**:
-- National cultural symbols
-- Tourism and folklore festivals
-- Visual art and craft traditions
+| Name | Date | Description | Status |
+|---|---|---|---|
+| Karadžić's Serbian folk songs |  | Major 19th-century corpus of Serbian oral poetry collected by Vuk Stefanović Karadžić, in which vile feature as blood-sisters of heroes, healers, and adversaries. | verified |
 
 ---
+## Theories & Explanations
 
-## Powers & Gifts
+### Paranormal / Cryptozoological
 
-### What Vile Can Teach
+**Surviving pre-Christian nature deities** _(Slavic comparative-mythology scholarship (e.g., Vyacheslav Ivanov, Vladimir Toporov))_
 
-Vile may choose to teach favored mortals various skills:
+Vile are interpreted as the surviving folkloric form of pre-Christian Slavic female nature-divinities reduced in status under Christianization.
 
-- **Healing arts** — Herbal medicine and magical healing
-- **Horsemanship** — Expert riding and horse training
-- **Archery** — Exceptional skill with bow and arrow
-- **Prophecy** — Reading signs and foretelling events
-- **Nature magic** — Understanding and working with natural forces
+### Skeptical
 
-However, such favor is rare and must be earned through genuine respect and proper conduct.
+**Folk explanation of natural phenomena** _(Folkloristic and ethnographic scholarship)_
 
----
+Whirlwinds, sudden storms, fairy rings of fungi, and unexplained illness or death in remote places are interpreted in folklore as the work of vile.
 
-## Protection & Survival
 
-### How to Stay Safe
+## Indigenous Perspectives
 
-| Method | Description | Effectiveness |
-|--------|-------------|---------------|
-| Show respect | Respect nature and vila territories, ask permission | High |
-| Do not steal possessions | Never take vila clothing, belts, or wings | Critical |
-| Avoid fairy rings | Do not enter or disturb areas where vile have danced | High |
-| Do not interrupt dancing | If you see vile dancing, do not approach or interrupt | High |
-| Make offerings | Leave offerings at springs and crossroads | Medium |
+> ⚠️ **Treatments should distinguish older folk-religious vile from later literary and pop-cultural reinterpretations.**
 
-**Critical Warning**: Stealing a vila's belt, veil, or wings will result in a powerful curse or death. This is the most dangerous transgression.
+**Cultures**: South Slavic peoples, West Slavic peoples
 
----
+Vile are a living component of Slavic folk and literary tradition, central to Serbian and Bulgarian epic and lyric poetry.
 
-## Research & Investigation
+_Guidelines: Cite Slavic-language folkloric and ethnographic sources where possible rather than relying solely on English summaries._
 
-### Notable Researchers
+## Popular Culture
 
-| Name | Affiliation | Contribution |
-|------|-------------|--------------|
-| Vuk Karadžić | Serbian philologist and linguist | Collected Serbian folk tales and epic poetry featuring vile |
-| T.P. Vukanović | Ethnographer | Studied South Slavic folk beliefs including vila traditions |
+**Literature**: Vuk Karadžić, Srpske narodne pjesme (1814–1866); Karel Jaromír Erben, Kytice (1853); J. K. Rowling, Harry Potter and the Goblet of Fire (2000) — Veela
 
-### Ongoing Studies
+**Film / TV**: The Witcher (Netflix, 2019–) — South Slavic-inflected setting featuring vila-like beings; Numerous Yugoslav and Bulgarian folk-tale films featuring vile/samodivi
 
-Contemporary research focuses on comparative mythology, Balkan cultural identity, and preservation of folk traditions. Vila serve as important subjects in gender studies and folklore analysis.
+**Games**: The Witcher 3: Wild Hunt (2015) — features vila/rusalka-like enemies
+
+**Music**: Antonín Dvořák, Rusalka (1901) — sister-genre Slavic water-nymph opera
 
 ---
+## Research
 
-## API Reference
+### Researchers
 
-Machine-readable data is available in [`api.json`](api.json).
+| Name | Affiliation | Contribution | Period |
+|---|---|---|---|
+| Vuk Stefanović Karadžić | Serbian philologist and folklorist | Pioneering 19th-century collection and publication of Serbian folk poetry featuring vile | 19th century |
+| Karel Jaromír Erben | Czech folklorist and poet | Documentation of Czech víla tradition; literary treatment in Kytice | 19th century |
 
-### Data Access
-
-```javascript
-// Using WyrdnessAPI
-const wyrd = new WyrdnessAPI();
-const vila = await wyrd.getPhenomenon('vila');
-```
-
-### Direct Access
-
-```
-Raw JSON: https://raw.githubusercontent.com/wyrdness/vila/main/api.json
-```
+Vile are studied within Slavic philology, comparative mythology, and folklore departments across the Balkans and Central Europe; there is no cryptozoological field programme.
 
 ---
+## Sources
 
-## Sources & References
+See [SOURCES.md](SOURCES.md) for the complete bibliography.
 
-See [SOURCES.md](SOURCES.md) for complete bibliography.
 
-### Primary Sources
+## How to Report a Sighting
 
-- Karadžić, V. (19th century). *Serbian Folk Tales*. Various editions.
-- McClelland, B. (2006). *Slayers and Their Vampires: A Cultural History of Killing the Dead*. University of Michigan Press.
-- Vukanović, T.P. (1989). "The Vampire." *Journal of the Gypsy Lore Society*.
-
----
-
-## Changelog
-
-| Version | Date | Changes |
-|---------|------|---------|
-| 1.0.0 | 2026-01-14 | Initial release |
+1. **GitHub Issue**: [Submit Sighting Report](../../issues/new?template=sighting_report.yml)
+2. Provide date, location, witnesses, description, conditions, and any evidence.
 
 ---
-
 ## License
 
-- **Content**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-- **Data**: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
+Content: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
+Data: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)  
 
 ---
-
-<div align="center">
-
-*Part of the [Wyrdness](https://github.com/wyrdness) Paranormal Archive*
-
-[Suggest Correction](../../issues/new?template=correction.yml) • [Full API](api.json)
-
-</div>
+_Auto-generated from `api.json`. Do not edit by hand — edit `api.json` and run `make repo-docs`._
